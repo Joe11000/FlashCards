@@ -16,8 +16,4 @@ class Model
       line_counter += 1                           # keep track of (current line - 1)
     end
   end
-
-  def save_current_deck_to_file(current_deck)
-      # save into file
-  end
 end
